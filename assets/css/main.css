@@ -3877,7 +3877,7 @@ input, select, textarea {
 		background-image: url("images/webpage.jpeg");
 		background-position: top right;
 		background-repeat: no-repeat;
-		background-size: auto;
+		background-size: 100% auto;
 	}
 
 		#intro p {
