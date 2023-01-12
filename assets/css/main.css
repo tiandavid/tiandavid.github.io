@@ -2308,7 +2308,7 @@ input, select, textarea {
 		}
 
 	label {
-		color: #ffffff;
+		color: #000000; /*#ffffff*/
 		font-weight: bold;
 		line-height: 1.5;
 		margin: 0 0 0.7em 0;
@@ -3390,7 +3390,7 @@ input, select, textarea {
 
 		#header > .title {
 			border: 0;
-			color: #ffffff;
+			color: #000000; /*#ffffff*/
 			display: block;
 			font-size: 1.25em;
 			font-weight: bold;
