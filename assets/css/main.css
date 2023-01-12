@@ -98,7 +98,7 @@ input, select, textarea {
 	}
 
 	body {
-		background: #312450;
+		background: #ffffff; #original:#312450
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -3774,7 +3774,7 @@ input, select, textarea {
 			}
 
 			#sidebar nav a:before {
-				background: #f0f4f5; #original:#3c2c62
+				background: #3c2c62;
 			}
 
 			#sidebar nav a:after {
