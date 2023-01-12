@@ -3774,7 +3774,7 @@ input, select, textarea {
 			}
 
 			#sidebar nav a:before {
-				background: #3c2c62;
+				background: #f0f4f5; #original:#3c2c62
 			}
 
 			#sidebar nav a:after {
