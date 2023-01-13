@@ -2549,27 +2549,27 @@ input, select, textarea {
 			}
 
 				.wrapper.style1 .icon.major:before {
-					color: #5e42a6;
+					color: #185bed; /*#5e42a6*/
 				}
 
 				.wrapper.style1-alt .icon.major:before {
-					color: #493382;
+					color: #164aba; /*#493382*/
 				}
 
 				.wrapper.style2 .icon.major:before {
-					color: #5052b5;
+					color: #2b4b8f; /*#5052b5*/
 				}
 
 				.wrapper.style2-alt .icon.major:before {
-					color: #3e4094;
+					color: #3b67c4; /*#3e4094*/
 				}
 
 				.wrapper.style3 .icon.major:before {
-					color: #b74e91;
+					color: #4e76cc; /*#b74e91*/
 				}
 
 				.wrapper.style3-alt .icon.major:before {
-					color: #953d75;
+					color: #5d88e3; /*#953d75*/
 				}
 
 /* Image */
