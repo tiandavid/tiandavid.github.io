@@ -158,11 +158,11 @@ input, select, textarea {
 
 		a:hover {
 			border-bottom-color: transparent;
-			color: #000000; /*#ffffff*/
+			color: #ffffff; /*#ffffff*/
 		}
 
 	strong, b {
-		color: #000000; /*#ffffff*/
+		color: #ffffff; /*#ffffff*/
 		font-weight: bold;
 	}
 
